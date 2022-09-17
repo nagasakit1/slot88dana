@@ -1,0 +1,27 @@
+{
+  "name": "daftar-slot88-deposit-dana",
+  "theme": "ui",
+  "version": "1.0.10",
+  "description": "SLOT88 Situs slot deposit dana 10000 | situs online slot deposit tanpa potongan paling dijamin kemenangan maxwin",
+  "keywords": [
+    "pulsa777",
+    "slot deposit pulsa",
+    "slot pulsa 10rb",
+    "situs dana via pulsa 5000",
+    "situs slot tanpa potongan",
+    "slot gacor hari ini",
+    "slot online deposit pulsa",
+    "slot Online deposit pulsa Tanpa potongan",
+    "agen slot deposit dana",
+    "slot deposit via dana",
+    "slot deposit dana 10000",
+    "situs slot deposit dana",
+    "slot Gacor Hari Ini",
+    "slot Online Via Dana"
+  ],
+  "repository": "https://github.com/nagasakit1/slot88dana.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.11 <2.0.0"
+  }
+}
